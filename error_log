@@ -1,0 +1,11 @@
+[05-Oct-2016 08:33:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/freebtc/public_html/share_wheels/chat_users.php on line 116
+[05-Oct-2016 08:48:41 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/freebtc/public_html/share_wheels/registration.php on line 12
+[05-Oct-2016 08:48:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freebtc/public_html/share_wheels/registration.php on line 14
+[05-Oct-2016 08:50:13 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/freebtc/public_html/share_wheels/registration.php on line 12
+[05-Oct-2016 08:50:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freebtc/public_html/share_wheels/registration.php on line 14
+[05-Oct-2016 08:51:40 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/freebtc/public_html/share_wheels/registration.php on line 12
+[05-Oct-2016 08:51:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freebtc/public_html/share_wheels/registration.php on line 13
+[05-Oct-2016 08:51:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/freebtc/public_html/share_wheels/registration.php on line 14
+[05-Oct-2016 09:02:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/freebtc/public_html/share_wheels/chat_users.php on line 116
+[05-Oct-2016 09:07:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/freebtc/public_html/share_wheels/chat_users.php on line 116
+[05-Oct-2016 09:09:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/freebtc/public_html/share_wheels/chat_users.php on line 116
